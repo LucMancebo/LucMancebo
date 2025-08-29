@@ -2,7 +2,6 @@
 
 🎯 **Estudante de Engenharia de Software | 5° PERIODO**  
 📚 **Atualmente estudando desenvolvimento WEB e contribuições no git e github.**  
-   **Participando do GFT START#7 da DIO**  
 
 ---
 
