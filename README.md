@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Lucas Mancebo!
 
 🎯 **Estudante de Engenharia de Software | 5° PERIODO**  
-📚 **Atualmente estudando desenvolvimento WEB e contribuições no git e github.**  
+📚 **Atualmente estudando node.js**  
 
 ---
 
@@ -15,11 +15,15 @@
 </span>
 
 <span style="margin-right: 8px;">
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
 </span>
 
 <span style="margin-right: 8px;">
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</span>
+
+<span style="margin-right: 8px;">
+  <img src="https://img.shields.io/badge/Node.js-177831?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js" />
 </span>
 
 <span style="margin-right: 8px;">
@@ -31,11 +35,11 @@
 </span>
 <br>
 <span style="margin-right: 8px;">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=photoshop&logoColor=white" alt="Photoshop" />
 </span>
 
 <span style="margin-right: 8px;">
-  <img src="https://img.shields.io/badge/Illustrator-ff9a00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Illustrator-ff9a00?style=for-the-badge&logo=illustrator&logoColor=white" alt="Illustrator" />
 </span>
 
 <span>
@@ -68,6 +72,8 @@
 |--------------------------------------------------|--------------------|------|--------------------------------------------------------------|
 | Formação HTML Web Developer                       | DIO              | 2024 | [Ver certificado](https://www.dio.me/certificate/GF425QMB/share) |
 | Formação Lógica de Programação                      | DIO           | 2024 | [Ver certificado](https://www.dio.me/certificate/KCRFBDC6/share)   |
+| Github Certification                                | DIO           | 2025 | [Ver certificado](https://www.dio.me/certificate/K6PU8QVF/share)  |
+| Formação Javascript                                 | DIO           | 2025 | [Ver certificado](https://www.dio.me/certificate/NNWTHB6E/share)  |
 
 ---
 
