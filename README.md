@@ -8,7 +8,7 @@
 ## 🚀 Tecnologias e Ferramentas
 
 <br>
-<div align="center">
+<div>
 
 <span style="margin-right: 8px;">
   <img src="https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </span>
 
+
 <span style="margin-right: 8px;">
   <img src="https://img.shields.io/badge/Node.js-177831?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js" />
 </span>
@@ -33,13 +34,10 @@
 <span style="margin-right: 8px;">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </span>
-<br>
-<span style="margin-right: 8px;">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=photoshop&logoColor=white" alt="Photoshop" />
-</span>
+
 
 <span style="margin-right: 8px;">
-  <img src="https://img.shields.io/badge/Illustrator-ff9a00?style=for-the-badge&logo=illustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Typescript-0000ff?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
 </span>
 
 <span>
