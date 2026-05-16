@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Lucas Mancebo!
 
-🎯 **Estudante de Engenharia de Software | 5° PERIODO**  
-📚 **Atualmente estudando node.js**  
+🎯 **Engenharia de Software | 6° PERIODO**  
+🎯 **Sistemas de informação | 1° PERIODO**   
 
 ---
 
