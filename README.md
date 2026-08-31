@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Lucas Mancebo!
 
-🎯 **Engenharia de Software | 6° PERIODO**  
-🎯 **Sistemas de informação | 1° PERIODO**   
+🎯 **Engenharia de Software | 7° PERIODO**  
+🎯 **Sistemas de informação | 2° PERIODO**   
 
 ---
 
